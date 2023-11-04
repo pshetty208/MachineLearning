@@ -1,0 +1,11 @@
+﻿Pain,Breathing,Flue
+NP,B,Y
+M,B,N
+NP,P,Y
+S,G,Y
+NP,P,N
+M,B,Y
+NP,G,Y
+S,B,N
+M,G,Y
+NP,P,N
